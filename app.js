@@ -13,7 +13,8 @@
  * 
  * npm i
  * npx prisma generate
- * 
+ * npm install express
+ * npm install cors
  * select cast(last_insert_id() as DECIMAL) as id from tbl_filme limit 1;
  */
 
